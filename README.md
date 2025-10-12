@@ -37,6 +37,7 @@ To view or edit the project locally:
 ```bash
 # Clone this repository
 git clone https://github.com/hazeemmohamed/Netflix-clone.git
-
-# Live Demo
-https://hazeemmohamed.github.io/movieflix/
+```` ``` ````
+---
+## 🚀 Live Demo
+[Click here to view the site](https://hazeemmohamed.github.io/movieflix/)
