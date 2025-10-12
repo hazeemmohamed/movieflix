@@ -39,4 +39,4 @@ To view or edit the project locally:
 git clone https://github.com/hazeemmohamed/Netflix-clone.git
 
 # Live Demo
-https://hazeemmohamed.github.io/Netflix-clone/
+https://hazeemmohamed.github.io/movieflix/
