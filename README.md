@@ -1,4 +1,4 @@
-# 🎬 Netflix Clone  
+# 🎬 Netflix Clone - Movieflix  
 
 A **fully responsive Netflix Clone** built using **HTML** and **Tailwind CSS**.  
 This project focuses on recreating Netflix’s sleek user interface with pixel-perfect design and modern styling techniques.
